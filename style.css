@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+.ml{
+    margin-left: 3px;
+}
+@media only screen and (max-width: 600px) {
+   .paddingnew{
+       padding: 12px;
+   }
+    
+  }
